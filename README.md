@@ -57,7 +57,7 @@ Styles: CSS.
     package.json
 server.js
 
-# Add your contibution
+# Add your contribution
   If you want to add or edit, follow the next steps
 
 1. Fork the repository
